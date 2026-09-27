@@ -1,0 +1,13 @@
+# Never commit client material — these are real people's health records
+*.docx
+!sample_input/*.docx
+story_log.csv
+Organized_CaseStudies/
+Complete_Stories/
+output/
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
